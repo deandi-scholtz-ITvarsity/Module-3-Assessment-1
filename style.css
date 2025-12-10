@@ -19,6 +19,14 @@ body {
     background-size: cover;
 }
 
+.body-meals {
+    background-image: url('images/background-02-port.png');
+    background-position: center;
+    background-attachment: fixed;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
 /*==================== HOME PAGE ====================*/
 
 #home-logo-img {
@@ -70,6 +78,12 @@ body {
     font-size: 20px;
     color: #1a1a1a;
     padding-left: 10px;
+}
+
+.meals-list-item i {
+    float: right;
+    color: #1a1a1a;
+    padding-right: 10px;
 }
 
 .meals-list-item p {
