@@ -122,3 +122,23 @@ body {
     margin-top: -7px;
     margin-left: 10px;
 }
+
+/*==================== RECIPE PAGE ====================*/
+
+#recipe {
+    padding-top: 50px;
+}
+
+/*======== RECIPE DETAILS ========*/
+
+.recipe-details img {
+    width: 100%;
+}
+
+.recipe-details h1 {
+    font-size: 25px;
+    text-align: center;
+    border: 5px solid #1a1a1a;
+    margin: 10px;
+    padding: 5px;
+}
